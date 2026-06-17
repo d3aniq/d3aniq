@@ -16,8 +16,8 @@ A web platform that turns any building facade into a certified energy yield. I b
 - **Stockholm → Frankfurt** region migration (Cosentino partnership requirement)
 - **109 unit tests**, full CI/CD via GitHub Actions
 
-→ Code: [Copa-Solar/copa-solar.github.io](https://github.com/Copa-Solar/copa-solar.github.io)
-→ Live: [copa-solar.github.io](https://copa-solar.github.io)
+→ Live demo: [copa-solar.github.io](https://copa-solar.github.io)
+→ Source private — happy to walk through the architecture in a call
 
 ---
 
