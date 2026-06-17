@@ -41,4 +41,4 @@ Real-time collaborative editing (Yjs CRDTs), AWS SES for transactional email at 
 
 <!-- Update these before you publish — placeholder values. -->
 - 📧 [jasmin@dzanic.se](mailto:jasmin@dzanic.se)
-- 💼 [linkedin.com/in/<din-handle>](https://linkedin.com/in/<din-handle>)
+- 💼 [linkedin.com/in/d3aniq](https://linkedin.com/in/d3aniq)
