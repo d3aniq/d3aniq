@@ -17,7 +17,6 @@ A web platform that turns any building facade into a certified energy yield. I b
 - **109 unit tests**, full CI/CD via GitHub Actions
 
 → Live demo: [copa-solar.github.io](https://copa-solar.github.io)
-→ Source private — happy to walk through the architecture in a call
 
 ---
 
