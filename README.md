@@ -10,7 +10,7 @@ A statistics platform for Swedish football and floorball referees. It pulls matc
 
 A platform for energy calculations on solar façades. I worked on the serverless AWS backend, defined as code in a TypeScript CDK app, brought six external data sources into one data model, and set up CI/CD in GitHub Actions with around 100 automated tests.
 
-#### Captario, April-November 2024
+#### Captario, April–November 2024
 
 BI analyst in decision support for pharmaceutical development. Automated Python ETL runs that had been done by hand, and built star schemas and Power BI dashboards used as a decision basis.
 
