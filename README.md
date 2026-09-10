@@ -16,8 +16,8 @@ BI analyst in decision support for pharmaceutical development. Automated Python 
 
 #### Team projects
 
-- [manufacturing-optimization](https://github.com/LTU-2025-Team6): a distributed system in C# and .NET with RabbitMQ, Docker and Google OR-Tools (Luleå University of Technology)
-- [Team-Electric-LMS](https://github.com/Team-Electric-LMS): a fullstack learning management system (Lexicon)
+- [manufacturing-optimization-engine](https://github.com/LTU-2025-Team6/manufacturing-optimization-engine): a distributed system in C# and .NET with RabbitMQ, Docker and Google OR-Tools (Luleå University of Technology)
+- Team Electric LMS: a fullstack learning management system with a C# and .NET [backend](https://github.com/Team-Electric-LMS/LMS-Backend) and a React and TypeScript [frontend](https://github.com/Team-Electric-LMS/LMS-frontend) (Lexicon)
 
 #### Tools
 
