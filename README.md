@@ -32,11 +32,11 @@ Shows which open referee assignments in FOGIS and iBIS can be applied for withou
 
 - **Copa Solar**, Fullstack Developer, 2026: serverless AWS backend defined as code with CDK, six external data sources in one data model, CI/CD with around 100 tests. [copa-solar.github.io](https://copa-solar.github.io)
 - **Captario**, BI Analyst, 2024: automated manual Python ETL runs, built star schemas and Power BI dashboards used as a decision basis. [captario.com](https://captario.com/)
+- **Securitas**, Team Leader with data responsibility, 2019–2023: Power BI analysis of passenger flows in Västtrafik's public transport network, used as a basis for ticket inspections and resource allocation.
 
-#### Team projects
+#### Team project
 
 - [manufacturing-optimization-engine](https://github.com/LTU-2025-Team6/manufacturing-optimization-engine): a distributed system in C# and .NET with RabbitMQ, Docker and Google OR-Tools (Luleå University of Technology)
-- Team Electric LMS: a fullstack learning management system with a C# and .NET [backend](https://github.com/Team-Electric-LMS/LMS-Backend) and a React and TypeScript [frontend](https://github.com/Team-Electric-LMS/LMS-frontend) (Lexicon)
 
 #### Tools
 
