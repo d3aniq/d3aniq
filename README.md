@@ -20,11 +20,11 @@ Reconciles Svenska kraftnät's hourly electricity production with Statistics Swe
 
 #### 🟣 [RefStat](https://refstat.se/) · live
 
-Referee statistics for football, futsal, floorball and handball in Sweden and Norway. Fetches and parses match data from six federations' public match pages, one parser per source, and combines them into one view. API on Deno Deploy behind Cloudflare, 57 automated tests, used by active referees. Code available on request.
+Referee statistics for football, futsal, floorball and handball in Sweden and Norway. Fetches and parses match data from six federations' public match pages, one parser per source, and combines them into one view. API on Deno Deploy behind Cloudflare, 64 automated tests, used by active referees. Code available on request.
 
 #### 🟢 [FogiZi](https://fogizi.se/) · live
 
-Shows which open referee assignments in FOGIS and iBIS can be applied for without a clash, with match length per competition and travel time between venues, and applies for several at once. An application only counts as done once the federation's system confirms it, and passwords are never stored. Deno, 125 automated tests. Code available on request.
+Shows which open referee assignments in FOGIS and iBIS can be applied for without a clash, with match length per competition and travel time between venues, and applies for several at once. An application only counts as done once the federation's system confirms it, and passwords are never stored. Deno, 126 automated tests. Code available on request.
 
 ---
 
