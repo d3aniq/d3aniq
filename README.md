@@ -30,8 +30,8 @@ Shows which open referee assignments in FOGIS and iBIS can be applied for withou
 
 #### Work
 
-- **Copa Solar**, Fullstack Developer, 2026: serverless AWS backend defined as code with CDK, six external data sources in one data model, CI/CD with around 100 tests. [copa-solar.github.io](https://copa-solar.github.io)
-- **Captario**, BI Analyst, 2024: automated manual Python ETL runs, built star schemas and Power BI dashboards used as a decision basis. [captario.com](https://captario.com/)
+- **Copa Solar**, Fullstack Developer (internship), 2026: serverless AWS backend defined as code with CDK, six external data sources in one data model, CI/CD with around 100 tests. [copa-solar.github.io](https://copa-solar.github.io)
+- **Captario**, BI Analyst (internship), 2024: automated manual Python ETL runs, built star schemas and Power BI dashboards used as a decision basis. [captario.com](https://captario.com/)
 - **Securitas**, Team Leader with data responsibility, 2019–2023: Power BI analysis of passenger flows in Västtrafik's public transport network, used as a basis for ticket inspections and resource allocation.
 
 #### Team project
@@ -43,7 +43,7 @@ Shows which open referee assignments in FOGIS and iBIS can be applied for withou
 **Data and BI:** SQL, T-SQL, Python (Pandas, NumPy), Power BI, DAX, Power Query, dimensional modelling, Databricks, PySpark, Delta Lake, dbt, DuckDB  
 **Cloud:** AWS (CDK, Lambda, DynamoDB, S3, API Gateway, Cognito), Azure, Deno Deploy, Cloudflare, Docker, GitHub Actions  
 **Development:** C#, .NET, ASP.NET Core, Entity Framework Core, TypeScript, React, Node.js, xUnit, Vitest  
-**Languages:** Swedish and English (fluent), Bosnian (native), German (professional), Italian (basic)
+**Languages:** Swedish and English (fluent), Bosnian (native), Italian (basic), German (follows meetings and reads technical documentation)
 
 ---
 
