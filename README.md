@@ -14,13 +14,13 @@ What do BI jobs in western Sweden ask for? All 7.7 million job ads in the Swedis
 
 #### ⚡ [sweden-power-lakehouse](https://github.com/d3aniq/sweden-power-lakehouse)
 
-Reconciles Svenska kraftnät's hourly electricity production with Statistics Sweden's monthly figures across bronze, silver and gold on Databricks, with dbt models and 29 automated tests. Three production types agree within a tenth of a percent; solar and thermal deviate systematically, because the monthly statistics count production that never reaches the grid.
+Reconciles Svenska kraftnät's hourly electricity production with Statistics Sweden's monthly figures across bronze, silver and gold on Databricks, with dbt models and 29 automated tests. Three production types agree within 0.2 percent; solar and thermal deviate systematically, because the monthly statistics count production that never reaches the grid.
 
 `Databricks` `PySpark` `Delta Lake` `dbt` `Unity Catalog`
 
 #### 🟣 [RefStat](https://refstat.se/) · live
 
-Referee statistics for football, futsal, floorball and handball in Sweden and Norway. Fetches and parses match data from six federations' public match pages, one parser per source, and combines them into one view. API on Deno Deploy behind Cloudflare, 64 automated tests, used by active referees. Code available on request.
+Referee statistics for football, futsal, floorball and handball in Sweden and Norway. Fetches and parses match data from six federations' public match pages, one parser per source, and combines them into one view. API on Deno Deploy, site on Cloudflare Pages, 64 automated tests, used by active referees. Code available on request.
 
 #### 🟢 [FogiZi](https://fogizi.se/) · live
 
