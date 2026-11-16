@@ -1,6 +1,6 @@
 ### Hi, I'm Jasmin 👋
 
-Data engineer and BI developer in Gothenburg, Sweden. My work often starts where two systems describe the same thing in different ways, and ends with numbers people can make decisions on.
+BI developer and data engineer in Gothenburg, Sweden. My work often starts where two systems describe the same thing in different ways, and ends with numbers people can make decisions on.
 
 **Different sources. One answer.**
 
@@ -8,7 +8,7 @@ Data engineer and BI developer in Gothenburg, Sweden. My work often starts where
 
 #### 📊 [sweden-bi-job-market](https://github.com/d3aniq/sweden-bi-job-market)
 
-What do BI jobs in western Sweden ask for? All 7.7 million job ads in the Swedish Public Employment Service's Platsbanken from 2016 to 2026, in a medallion pipeline with dbt and DuckDB, answered in a Power BI report with the semantic model written as code (TMDL/PBIR). Open data, rebuildable from source.
+What do BI jobs in western Sweden ask for? All 7.7 million job ads in the Swedish Public Employment Service's Platsbanken from 2016 to 2026, in a medallion pipeline with dbt and DuckDB, answered in a Power BI report with the semantic model written as code (TMDL/PBIR), and 73 automated tests. Qlik has fallen from 22 to 7 percent of data ads, and the job board's own tagging never finds Databricks but counts therapy as dbt. Open data, rebuildable from source.
 
 `dbt` `DuckDB` `Python` `Power BI` `DAX`
 
@@ -22,9 +22,13 @@ Reconciles Svenska kraftnät's hourly electricity production with Statistics Swe
 
 Referee statistics for football, futsal, floorball and handball in Sweden and Norway. Fetches and parses match data from six federations' public match pages, one parser per source, and combines them into one view. API on Deno Deploy, site on Cloudflare Pages, 64 automated tests, used by active referees. Code available on request.
 
+`Deno Deploy` `Cloudflare` `JavaScript` `Tailwind CSS` `PWA`
+
 #### 🟢 [FogiZi](https://fogizi.se/) · live
 
 Shows which open referee assignments in FOGIS and iBIS can be applied for without a clash, with match length per competition and travel time between venues, and applies for several at once. An application only counts as done once the federation's system confirms it, and passwords are never stored. Deno, 126 automated tests. Code available on request.
+
+`Deno` `Deno Deploy` `JavaScript` `PWA`
 
 ---
 
@@ -46,5 +50,7 @@ Shows which open referee assignments in FOGIS and iBIS can be applied for withou
 **Languages:** Swedish and English (fluent), Bosnian (native), Italian (basic), German (follows meetings and reads technical documentation)
 
 ---
+
+Open to BI developer, data engineer and analytics engineer roles in the Gothenburg area, on-site, hybrid or remote. Available now.
 
 [dzanic.se](https://dzanic.se/) · [d3aniq.com](https://d3aniq.com/) · [LinkedIn](https://www.linkedin.com/in/d3aniq/) · jasmin@dzanic.se
