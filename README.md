@@ -47,7 +47,7 @@ Shows which open referee assignments in FOGIS and iBIS can be applied for withou
 **Data and BI:** SQL, T-SQL, Python (Pandas, NumPy), Power BI, DAX, Power Query, dimensional modelling, Databricks, PySpark, Delta Lake, dbt, DuckDB  
 **Cloud:** AWS (CDK, Lambda, DynamoDB, S3, API Gateway, Cognito), Azure, Deno Deploy, Cloudflare, Docker, GitHub Actions  
 **Development:** C#, .NET, ASP.NET Core, Entity Framework Core, TypeScript, React, Node.js, xUnit, Vitest  
-**Languages:** Swedish and English (fluent), Bosnian (native), Italian (basic), German (follows meetings and reads technical documentation)
+**Languages:** Swedish and English (fluent), Bosnian (native), German (good), Italian (basic)
 
 ---
 
