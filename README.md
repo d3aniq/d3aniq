@@ -12,11 +12,44 @@ What do BI jobs in western Sweden ask for? All 7.7 million job ads in the Swedis
 
 `dbt` `DuckDB` `Python` `Power BI` `DAX`
 
+<a href="https://github.com/d3aniq/sweden-bi-job-market"><img src="https://raw.githubusercontent.com/d3aniq/sweden-bi-job-market/main/docs/images/02-verktygsskiftet.png" width="720" alt="Power BI report page &quot;Verktygsskiftet&quot;: share of data job ads per year 2016–2026 mentioning visualisation tools, platforms and transformation tools"></a>
+
 #### ⚡ [sweden-power-lakehouse](https://github.com/d3aniq/sweden-power-lakehouse)
 
 Reconciles Svenska kraftnät's hourly electricity production with Statistics Sweden's monthly figures across bronze, silver and gold on Databricks, with dbt models and 29 automated tests. Three production types agree within 0.2 percent; solar and thermal deviate systematically, because the monthly statistics count production that never reaches the grid.
 
 `Databricks` `PySpark` `Delta Lake` `dbt` `Unity Catalog`
+
+```mermaid
+flowchart LR
+  subgraph Bronze
+    mimer[bronze.mimer_production]
+    seed[category_mapping<br/>seed]
+  end
+  subgraph Silver
+    hourly[production_hourly]
+  end
+  subgraph Gold
+    monthly[production_monthly]
+    profile[hourly_profile]
+    excluded[excluded_months]
+    recon[source_reconciliation]
+  end
+  subgraph Tests
+    solar{{solar_produces_at_night}}
+    balance{{energy_balance_silver_to_gold}}
+  end
+  mimer --> hourly
+  seed --> hourly
+  seed --> recon
+  hourly --> monthly
+  hourly --> profile
+  hourly --> excluded
+  monthly --> recon
+  hourly -.-> solar
+  hourly -.-> balance
+  monthly -.-> balance
+```
 
 #### 🟣 [RefStat](https://refstat.se/) · live
 
